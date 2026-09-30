@@ -1,0 +1,28 @@
+[
+    {
+        "name": "Jeevi",
+        "phone": "+916379817160",
+        "message": "Good morning to the team.!",
+        "status": "Sent",
+        "time": "2026-09-30 20:10:48",
+        "screenshot": "sent_Jeevi_2026-09-30.png",
+        "last_3_messages": [
+            "Good morning to the team.!\n7:58 PM",
+            "Good morning to the team.!\n8:03 PM",
+            "Good morning to the team.!\n8:10 PM"
+        ]
+    },
+    {
+        "name": "Jeevi",
+        "phone": "+919698057985",
+        "message": "Good morning to the team.!",
+        "status": "Sent",
+        "time": "2026-09-30 20:11:06",
+        "screenshot": "sent_Jeevi_2026-09-30.png",
+        "last_3_messages": [
+            "What\n8:04 PM",
+            "Testing\n8:05 PM",
+            "Good morning to the team.!\n8:11 PM"
+        ]
+    }
+]
